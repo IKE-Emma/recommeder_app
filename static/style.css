@@ -1,5 +1,5 @@
 .movie {
-	color: #fff;
+	color: #C4D8E3;
 	margin-left: auto;
 	margin-right: auto;
 	resize: none;
@@ -34,7 +34,7 @@
 }
 
 .footer {
-	color: #e4e0e0;
+	color: #000000;
 	text-align:right;
 	position: fixed;
  	bottom: 20px;
@@ -44,7 +44,7 @@
 
 h1 {
     font-family: 'Netflix Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    color:  #7F7F7F;
+    color: rgb(255, 255, 255);
     font-weight: bold;
     margin-top: 30px;
     text-shadow: #000000 0px 0px 13px;
