@@ -36,6 +36,6 @@ Let’s get a glimpse of the data contained in this dataset. We have three .csv 
 
 
 source: https://towardsdatascience.com/content-based-recommender-systems-28a1dbd858f5
-App: http://ike360.herokuapp.com/
+App: https://modified10.herokuapp.com/
 
 Special thanks goes to kishan for a remarkable contribute he is putting out the for those in the Data Science space and also this particular project.
